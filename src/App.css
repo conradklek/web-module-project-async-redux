@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+form button {
+  border: none;
+  border-radius: 3px;
+  margin: 10px 5px;
+  padding: 0 4px 0 4px;
+  background: hsl(0DEG, 0%, 80%);
+}
